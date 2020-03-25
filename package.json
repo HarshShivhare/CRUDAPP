@@ -1,0 +1,39 @@
+{
+  "title": "CRUD App",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "dependencies": {
+    "@date-io/date-fns": "v1",
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/pickers": "latest",
+    "axios": "^0.19.2",
+    "date-fns": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-redux": "7.2.0",
+    "redux": "4.0.5"
+  },
+  "keywords": [],
+  "name": "crudapp",
+  "version": "0.0.118",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
