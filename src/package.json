@@ -1,0 +1,19 @@
+{
+  "title": "Material demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/pickers/MaterialUIPickers.js",
+  "dependencies": {
+    "@date-io/date-fns": "v1",
+    "@material-ui/core": "latest",
+    "@material-ui/pickers": "latest",
+    "date-fns": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-redux": "7.2.0",
+    "redux": "4.0.5"
+  },
+  "keywords": [],
+  "name": "crudapp"
+}

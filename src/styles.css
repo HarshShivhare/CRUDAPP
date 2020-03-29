@@ -1,0 +1,13 @@
+.pading-right{
+  margin-right: 50px;
+}
+
+.dropdown {
+  height: 35 !important; 
+  width: 150 !important;
+}
+
+.MuiInputBase-root.Mui-disabled {
+  color: black !important;
+  cursor: default;
+}
