@@ -54,10 +54,6 @@ class CrudTable extends React.Component {
       });
   }
 
-  actionHandler = (index, action) => {
-    this.props.deleteproduct(index);
-  };
-
   handleSearch = event => {
     this.setState({
       serachParam: event.target.value,
